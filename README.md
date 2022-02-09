@@ -1,2 +1,2 @@
 # Trello-Web-Selenium-Automation
-It is a management testing tools,   
+It is a management testing tools, In this project I have written scripts for automating https://trello.com/  using Selenium and TestNG. I have automated test cases including Login, add new task and generated report with screenshot in html format. A standard framework is maintained throughout this project. Created Baseclass, config files for common properties and also seperate Page objects for different pages. in pom.xml all of the dependencies has been added. So one can pull and run this project in his local system. Also I have added TestNG.xml file from where Test Cases will be executed evrytime.  
